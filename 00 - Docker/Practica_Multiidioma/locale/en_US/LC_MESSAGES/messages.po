@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-18 18:19+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:67
+#: /var/www/html/Practica_Multiidioma/index.php:65
+#: /var/www/html/Practica_Multiidioma/sitio.php:62
+#: /var/www/html/Practica_Multiidioma/sitio.php:70
+msgid "TITULO"
+msgstr "Application adapted to languages English"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:74
+#: /var/www/html/Practica_Multiidioma/index.php:71
+#: /var/www/html/Practica_Multiidioma/sitio.php:66
+#: /var/www/html/Practica_Multiidioma/sitio.php:74
+msgid "SELECCIONA_IDIOMA"
+msgstr "Select language"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:75
+#: /var/www/html/Practica_Multiidioma/index.php:72
+#: /var/www/html/Practica_Multiidioma/sitio.php:67
+#: /var/www/html/Practica_Multiidioma/sitio.php:75
+msgid "FRANCES"
+msgstr "French"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:76
+#: /var/www/html/Practica_Multiidioma/index.php:73
+#: /var/www/html/Practica_Multiidioma/sitio.php:68
+#: /var/www/html/Practica_Multiidioma/sitio.php:76
+msgid "INGLES"
+msgstr "English"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:77
+#: /var/www/html/Practica_Multiidioma/index.php:74
+#: /var/www/html/Practica_Multiidioma/sitio.php:69
+#: /var/www/html/Practica_Multiidioma/sitio.php:77
+msgid "CASTELLANO"
+msgstr "Spanish"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:88
+#: /var/www/html/Practica_Multiidioma/index.php:85
+msgid "LOGIN"
+msgstr "Access data"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:89
+#: /var/www/html/Practica_Multiidioma/index.php:86
+msgid "USUARIO"
+msgstr "User"
+
+#: /var/www/public_html/PracticaMultiidioma/Practica_Multiidioma/index.php:90
+#: /var/www/html/Practica_Multiidioma/index.php:87
+msgid "PASSWORD"
+msgstr "Password"
+
+#: /var/www/html/Practica_Multiidioma/index.php:75
+#: /var/www/html/Practica_Multiidioma/sitio.php:70
+#: /var/www/html/Practica_Multiidioma/sitio.php:78
+msgid "BTN_IDIOMA"
+msgstr "Set Language"
+
+#: /var/www/html/Practica_Multiidioma/index.php:89
+msgid "BTN_ACCEDER"
+msgstr "Login"
+
+#: /var/www/html/Practica_Multiidioma/sitio.php:75
+#: /var/www/html/Practica_Multiidioma/sitio.php:83
+msgid "BIENVENIDO"
+msgstr "Wellcome to this website"
+
+#: /var/www/html/Practica_Multiidioma/sitio.php:79
+#: /var/www/html/Practica_Multiidioma/sitio.php:87
+msgid "BTN_VOLVER"
+msgstr "Return"
+
+#: /var/www/html/Practica_Multiidioma/sitio.php:19
+msgid "ERR_USER"
+msgstr "ERROR: You must insert username"
+
+#: /var/www/html/Practica_Multiidioma/sitio.php:24
+msgid "ERR_PASS"
+msgstr "ERROR: You must insert password "
