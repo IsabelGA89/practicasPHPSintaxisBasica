@@ -1,0 +1,104 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 16-oct-2017, 10:05:06
+    Author     : manuel
+*/
+
+
+.fieldset1{
+    width:60%;
+   /* background: blanchedalmond;  */
+    background: #fce4ec;
+    margin-left: 20%;
+
+}
+.fieldset2{
+    width:90%;
+    background-color: #ebdef0;
+}
+
+.error{
+    float:right;
+/*    color:red;*/
+    color:#f06292;
+    font-size:18px;
+    font-style: unset;
+    padding: 5px;
+    margins:5px;
+
+}
+.caja_centrada{
+    width:30%;
+    margin-left:30%;
+    margin-top:10%;
+/*    background: blanchedalmond  */
+    background: #fce4ec;
+}
+
+.ficheros{
+    width:50%;
+    margin-left:10%;
+    margin-top:2%;
+   /* background: blanchedalmond;*/
+    background: #fce4ec;
+}
+
+legend{
+    font-size: 2em;
+    /*color: brown;*/
+    color: #880e4f;
+   /* background: burlywood; */
+    background-color: #fce4ec;
+}
+.legend2{
+    font-style: normal;
+    /*  background: bisque;*/
+    background-color: #f48fb1;
+    font-size: 1.7em;
+    margin: 10px;
+    padding: 5px;
+}
+
+
+h1{
+    color:darkred;
+    font-style: inherit;
+    font-size:3em;
+    text-align: center
+}
+h2{
+    margin-left: 25%;
+    color:darkblue;
+    font-style: italic;
+}
+h3{
+    color:darkblue;
+    font-style: italic;
+    text-align: center
+}
+
+input[type="submit"]:active {
+    color: darkred;
+}
+input[type="submit"]{
+    text-align: right;
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+}
+
+#login-element{
+    font-size: larger;
+}
+
+input[type="file" i] {
+    color:#880e4f;
+    font-size: 14px;
+}
+.boton_fichero{
+    float:right;
+}

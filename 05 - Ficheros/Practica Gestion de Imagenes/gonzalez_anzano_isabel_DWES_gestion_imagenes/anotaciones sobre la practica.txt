@@ -1,0 +1,17 @@
+Comentarios sobre la práctica:
+
+- Los archivos de música aportados para la práctica tienen un peso de 0kb, por lo que darán error a la hora de subirlos, por este motivo, he
+añadido un nuevo archivo de música de cara a poder ver la catalogación y el proceso completo con un archivo con contenido.
+
+- He decidido crear de forma separada un archivo con el js para los eventos de los botones y los checkbox, para mantener la
+integridad del código php lo más limpia posible.
+
+- tanto el fichero de logs, como la estructura de carpetas para los ficheros privados y públicos se generan automáticamente.
+
+Posibles mejoras:
+- El sistema de logs se podría mejorar separando los accesos por un lado, las subidas, y los errores por otro.
+- Falta implementar el elemento borrar, o elimiar un fichero en caso de que el administrador así lo decida. (He dejado una función
+preparada para ello)
+- Implementar des-publicar para el perfil administrador.(he incluido la variable $admin en el template del basic user
+para poder modificar esa vista si el que accede tiene perfil de administrador en un futuro)
+- Un sistema de alta de usuarios usable. (con mysql y sesiones)
