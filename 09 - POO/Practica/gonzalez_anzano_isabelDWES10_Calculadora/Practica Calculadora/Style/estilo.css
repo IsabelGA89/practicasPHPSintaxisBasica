@@ -1,0 +1,87 @@
+
+body{
+    background-image: url("../img/fondo3.png");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1{
+   text-align: center;
+    background-color:#3e656c;
+    color: #aceded;
+    padding: 5px;
+}
+
+#texhelp{
+    font-size : 1.2em;
+}
+label{
+    font-weight: bold;
+    font-size : 1.5em;
+    margin: 0.65em;
+}
+input[type=text]{
+    font-weight: bold;
+    font-size : 1.5em;
+    padding: 1em 1em 1em 1em;
+    margin: 1em 1em 1em 1em;
+    /*margin-left: 250px;*/
+}
+input[type=submit] {
+    padding:5px 15px 10px 10px;
+}
+legend{
+    font-size: 2em;
+    color: lightslategray;
+    font-weight: bold;
+}
+
+fieldset{
+
+}
+#resultado_text{
+    text-align: center;
+    border-bottom-style: solid;
+    color: #3e656c;
+}
+
+fieldset#informacion{
+    border: 0.25em solid;
+    background-color: #eee;
+    padding:20px;
+}
+fieldset#calculadora{
+    border: 0.25em solid;
+    background-color: #eee;
+    padding:20px;
+}
+fieldset#resultado{
+    border: 0.25em solid;
+    background-color: #eee;
+    padding:20px;
+}
+#grupo_botones_op_predefinidas{
+    padding: 10px;
+    margin:10px;
+}
+#boton_calcular{
+    padding: 10px;
+}
+#boton_calcular input {
+    width: 100%;
+}
+footer{
+    background-color:#3e656c;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+}
+
+.red_text{
+    color: darkred;
+    margin:10px;
+}
