@@ -1,0 +1,85 @@
+/*PAGINA INICIO*/
+#presentacion{
+    border : 0.25em solid;
+    /*position: absolute;*/
+    left:20%;
+    top: 20%;
+   /* padding:10px;*/
+    background-color: buttonhighlight;
+    font-size: 1.4em;
+    font-weight: bold;
+    /*margin: 10px;*/
+    margin:450px;
+    padding:20px;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Press Start 2P', cursive;
+}
+li{
+    color: darkmagenta;
+}
+.letra_blanca{
+    color:white;;
+}
+input[type=submit] {
+    font-size: 1.4em;
+    padding:5px 15px;
+    border:2px ;
+    background:#ccc;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 10px;
+    position:relative;
+    left:35%;
+    font-family: 'Press Start 2P', cursive;
+}
+
+/*Parpadeo del botón*/
+.animated {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+@-webkit-keyframes flash {
+    0%, 50%, 100% {
+        opacity: 1;
+    }
+    25%, 75% {
+        opacity: 0;
+    }
+}
+@keyframes flash {
+    0%, 50%, 100% {
+        opacity: 1;
+    }
+    25%, 75% {
+        opacity: 0;
+    }
+}
+.flash {
+    -webkit-animation-name: flash;
+    animation-name: flash;
+}
+/*
+background*/
+#background_index {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url("../assets/images/bg3.png") no-repeat;
+    background-size: cover;
+}
+/*AUDIO*/
+.audio_index{
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,178 @@
+/*PAGINA JUGAR*/
+/**{
+    margin:0;
+    padding:0;
+}*/
+
+/*Background*/
+#background {
+   /*position: fixed ;*/
+   /* top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: -100;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);*/
+    background: url("../assets/images/bg1.jpg") /*no-repeat*/;
+    background-color: #c09bc3;
+    /* background-size: cover;*/
+}
+
+
+.linea_titulo{
+    margin: 5px;
+    padding: 5px;
+    background-color: darkmagenta;
+/*    display: block;*/
+    border-radius: 5px;
+    color: white;
+    /*Borde del texto en negro*/
+    -webkit-text-stroke: 2px black;
+}
+
+.Title{
+ font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+h4{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.error{
+    color:darkred;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#opciones{
+    margin-top:80px;
+    /*padding: 18px;*/
+/*    position: absolute;*/
+
+}
+#botones_opciones{
+    /*margin-top: 15px;*/
+    margin: -50px;
+}
+
+#menu{
+    margin-top:80px;
+   /* padding: 16px;*/
+    background-color: orchid;
+/*    position: absolute;*/
+}
+#botones_menu_juego{
+    margin: -50px;
+    background-color: orchid;
+    height: 200px;
+}
+#boton_jugar{
+    margin: 5px;
+    display: flex;
+}
+
+#selects_colores{
+    /*background-color: darkred;*/
+    display: table;
+}
+#informacion{
+    background-color: plum;
+    padding:50px;
+    margin-top: 10px;
+/*    position: fixed;*/
+}
+#texto-jugada{
+    padding: 20px;
+}
+.historico{
+    padding: 5px;
+    margin: 5px;
+}
+.caja_clave{
+    margin: 10px;
+    padding: 10px;
+    background-color: lightgrey;
+}
+/*Redondeles*/
+span.negro {
+    background: black;
+    border-radius: 3em;
+    -moz-border-radius: 3em;
+    -webkit-border-radius: 3em;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 2em;
+    margin-right: 15px;
+    text-align: center;
+    width: 2em;
+    font-size: 1em;
+}
+span.blanco {
+    background: white;
+    border-radius: 3em;
+    -moz-border-radius: 3em;
+    -webkit-border-radius: 3em;
+    color: #000000;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 2em;
+    margin-right: 15px;
+    text-align: center;
+    width: 2em;
+    font-size: 1em;
+}
+
+.pildora {
+    padding: 5px;
+    margin: 5px;
+}
+
+/*Clases COLORES*/
+.Azul{
+    background-color: cornflowerblue;
+    color: white;
+}
+.Rojo{
+    background-color: red;
+    color:white;
+}
+.Amarillo{
+    background-color: yellow;
+    color: black;
+}
+.Verde{
+    background-color: seagreen;
+    color: white;
+}
+.Rosa{
+    background-color: hotpink;
+    color:black;
+}
+.Blanco{
+    background-color: floralwhite;
+    color:black;
+}
+.Negro{
+    background-color: black;
+    color: white;
+}
+.Morado{
+    background-color: blueviolet;
+    color: white;
+}
+.Marron{
+    background-color: saddlebrown;
+    color: white;
+}
+.Naranja{
+    background-color: orangered;
+    color: white;
+}
+
+
+
+

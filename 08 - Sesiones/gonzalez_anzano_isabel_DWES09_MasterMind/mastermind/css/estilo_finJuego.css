@@ -1,0 +1,22 @@
+body {
+    background-image: url("../assets/images/background.jpg");
+    /*background-size: cover;*/
+}
+
+#historico_jugadas{
+    margin-top:80px;
+    padding: 18px;
+    /*background-color: hotpink;*/
+}
+#clave_opciones{
+    margin-top:80px;
+    padding: 16px;
+    background-color: #c09bc3;
+}
+#resultado img{
+    display:block;
+    margin:auto;
+}
+.letra_blanca{
+    color:white;;
+}
