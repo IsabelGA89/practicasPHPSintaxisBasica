@@ -1,0 +1,13 @@
+Simplemente quería dejar constancia de que se ha intentado llevar a cabo el MVC con las estructuras de archivos que se han
+sugerido para la práctica, esto se ve mejor desarrollado en la práctica 2,dónde todo se ha encapsulado en funciones y
+se han creado una serie de variables accesibles desde todo el programa.
+
+He aprovechado para incorporar alguna estructura de Bootstrap porque así quedaba mucho más elegante, y cuidado, dándole un aspecto algo más
+profesional que si me hubiera puesto a retocar con css a mano.
+
+También me he tomado la libertad de incluir alguna imágen para que fuera más completa la estructura, de modo que he añadido la corres-
+pondiente carpeta en el sistema de archivos (src/img tal vez hubiera sido más completo pero no he querido pasarme).
+
+En general, me han parecido unos ejercicios muy completos, y se nota la finalidad de hacer que el alumno entienda los porqués y no sólo
+asimile los saltos de fe, he disfrutado mucho con esta práctica.
+Gracias!
