@@ -1,0 +1,23 @@
+
+fieldset{
+    width: 50%;
+    margin-left: 20%;
+    background: #FF00566E
+
+}
+.img_win_or_dead{
+    width: 50%;
+    height: 50%;
+}
+.thumb{
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+    background:white;
+}
+.img_carrousel{
+    min-width: 200px;
+    min-height: 150px;
+    width: 200px;
+}
+
